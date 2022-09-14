@@ -1,4 +1,4 @@
-# Formula1analise
+# Formula 1 analise
 
 ### The ideia is to analyse the data from all the years of Formula 1 and define the Champion of all times. Will be used a database from 1950 to 2022, but the scorting system will be from the year 2022, as listed below:
 
